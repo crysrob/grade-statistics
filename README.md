@@ -13,9 +13,9 @@ The program uses loops, conditionals, functions, and string handling.
 
 - Input validation for grade values (0–100)
 - Uses a separate `printSummary()` function for clean code
-- Accepts full class names using `getline()` and the <string> library
-
----
+- Accepts full class names using `getline()` and the string library
+- while loops
+- if / else
 
 ## How to Run
 
