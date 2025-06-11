@@ -23,4 +23,4 @@ The program uses loops, conditionals, functions, and string handling.
 2. Compile the program:
 
 ```bash
-g++ grade_statistics.cpp -o grade_statistics
+g++ gradeSstatistics.cpp -o gradeStatistics
