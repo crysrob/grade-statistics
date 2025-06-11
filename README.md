@@ -24,3 +24,6 @@ The program uses loops, conditionals, functions, and string handling.
 
 ```bash
 g++ gradeSstatistics.cpp -o gradeStatistics
+
+3. Run the program:
+./grade_statistics
