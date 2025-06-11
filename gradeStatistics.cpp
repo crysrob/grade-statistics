@@ -85,15 +85,6 @@ int main(){
         avg = sum / amt;
     
         printSummary(avg, highest, lowest, passing, amt, bestClass, worstClass);
-        
-        char response;
-        cout << "Do you want to restart? [Y/N] ";
-        cin >> response;
-
-        switch(response){
-            case 'Y':
-
-        }
-
+       
 
 }//end main
