@@ -20,8 +20,8 @@ The program uses loops, conditionals, functions, and string handling.
 ## How to Run
 
 1. Make sure you have a C++ compiler installed (e.g. g++, clang++)
+   
 2. Compile the program:
-``bash
 g++ gradeSstatistics.cpp -o gradeStatistics
 
 3. Run the program:
