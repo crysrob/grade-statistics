@@ -9,6 +9,12 @@ Hello! This is a beginner-friendly C++ program that allows a user to enter multi
 
 The program uses loops, conditionals, functions, and string handling.
 
+## Features
+
+- Input validation for grade values (0–100)
+- Uses a separate `printSummary()` function for clean code
+- Accepts full class names using `getline()` and the <string> library
+
 ---
 
 ## How to Run
